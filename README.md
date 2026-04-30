@@ -1,4 +1,3 @@
-cat > /mnt/user-data/outputs/portfolio-who-i-am.html << 'HTMLEOF'
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 <head>
