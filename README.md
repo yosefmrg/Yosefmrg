@@ -305,7 +305,7 @@
   <p style="font-size:10px;letter-spacing:0.3em;text-transform:uppercase;color:var(--warm-gray);margin-top:48px;margin-bottom:12px">Mix FM Radio مكس إف إم</p>
   <div class="gallery-grid-2x2">
     <div class="gallery-cell"><div class="img-slot" style="width:100%;height:100%"><img src="Indieshow1.jpg" alt="Mix FM Radio"></div></div>
-    <div class="gallery-cell"><div class="img-slot" style="width:100%;height:100%"><img src="MIXPM.jpg" alt="Mix FM Radio"></div></div>
+    <div class="gallery-cell"><div class="img-slot" style="width:100%;height:100%"><img src="MIXPM.JPG" alt="Mix FM Radio"></div></div>
     <div class="gallery-cell"><div class="img-slot" style="width:100%;height:100%"><img src="SahSeh.jpg" alt="Mix FM Radio"></div></div>
     <div class="gallery-cell"><div class="img-slot" style="width:100%;height:100%"><img src="KickOFF.jpg" alt="Mix FM Radio"></div></div>
   </div>
