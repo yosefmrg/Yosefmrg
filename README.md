@@ -85,7 +85,7 @@
     .body-text { font-family:'Cormorant Garamond',serif; font-size:19px; font-weight:300; line-height:1.75; color:rgba(245,240,232,0.8); margin-bottom:20px; }
     .portrait-slot { flex:1; min-height:420px; }
 
-    /* FIX 1: صورة البورتريه تظهر كاملة */
+    /* FIX 1: */
     .portrait-slot img { filter: grayscale(10%); object-fit: contain !important; object-position: center center; background: #0a0a0a; }
 
     .trait-cards { padding:32px 40px; display:flex; flex-direction:column; gap:14px; border-top:1px solid rgba(201,168,76,0.08); }
@@ -137,7 +137,7 @@
     .partner-item { display:flex; flex-direction:column; align-items:center; gap:15px; opacity:0.75; transition:0.4s ease; }
     .partner-item:hover { opacity:1; transform:translateY(-5px); }
 
-    /* FIX 2: اللوغوهات تظهر بشكل طبيعي بدون تحويل للأبيض */
+    /* FIX 2: */
     .partner-item img { width:100%; max-width:130px; height:75px; object-fit:contain; }
     .partner-item span { font-size:9px; letter-spacing:1px; text-transform:uppercase; color:var(--warm-gray); text-align:center; }
 
@@ -556,7 +556,7 @@
     .partner-item { display:flex; flex-direction:column; align-items:center; gap:15px; opacity:0.75; transition:0.4s ease; }
     .partner-item:hover { opacity:1; transform:translateY(-5px); }
 
-    /* FIX 2: اللوغوهات تظهر بشكل طبيعي بدون تحويل للأبيض */
+    /* FIX 2: */
     .partner-item img { width:100%; max-width:130px; height:75px; object-fit:contain; }
     .partner-item span { font-size:9px; letter-spacing:1px; text-transform:uppercase; color:var(--warm-gray); text-align:center; }
 
